@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.2",
-        "doctrine/dbal": "~2.5",
+        "doctrine/dbal": "^3.0",
         "funeralzone/valueobjects": "^0.5",
         "jenssegers/agent": "^2.6",
         "laravel/framework": "^7.0 || ^8.0",
